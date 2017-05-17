@@ -1,5 +1,9 @@
 # Percona xtrabackup tools
 
+## Requirements
+ - Percona xtrabackup
+ - Git
+
 ## Installation
 
 Clone repository (in both servers):
